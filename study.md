@@ -3,6 +3,7 @@
 **粗体**  
 ***加粗斜体***   
 ~~删除线~~   
+  **加粗**  
 2. 标题  
    # 一级标题
    ## 二级标题
@@ -40,5 +41,15 @@
 ```
 8. 引用
    > 第一行  
-   > 第二行  
-9.
+   > 第二行    
+
+9.笔记  
+  升级pip: python -m pip install --upgrade pip  
+  安装xlrd库: pip install xlrd     
+10. 图片添加  
+![图片alt](图片地址 ''图片title'')
+
+图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
+图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
+![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
+u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
